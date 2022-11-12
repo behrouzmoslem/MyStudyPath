@@ -1,4 +1,3 @@
-# MyStudyPath-
 This study path is released under the CC BY-SA 4.0 license
 Introduction
 
@@ -249,5 +248,3 @@ This section provides a list of recommended books readings that have not been me
     Release It!: Design and Deploy Production-Ready Software
     Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software
     The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
-
-my study path 
