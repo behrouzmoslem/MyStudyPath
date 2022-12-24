@@ -26,14 +26,22 @@ Enjoy!
 - Core Design Principles for Software Developers
   - [Read](https://virgool.io/@farshid.azizi/%D8%A7%D8%B5%D9%88%D9%84-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-software-design-principles-lw9hg7cqeblt) 
   - [Watch](https://www.youtube.com/watch?v=llGgO74uXMI)
-- Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
-  - [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
-  - [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
-  - [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
-  - [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
-- Exercise: Look at the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
-  - Try to find where the SOLID principles are violated
+    - SOLID 
+      - Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+        - [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
+        - [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
+        - [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
+        - [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
+        - [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
+      - Exercise: Look at the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
+      - Try to find where the SOLID principles are violated
+     - Read [DRY,KISS,YAGNI](https://www.dilgoon.ir/blog/%D8%B3%D9%87-%D8%A7%D8%B5%D9%84-KISS-,-YAGNI-,-DRY-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F)
+       - [YAGNI](https://martinfowler.com/bliki/Yagni.html)
+         - "You Aren’t Gonna Need It"
+       - KISS
+         - "Keep It Simple, Stupid"
+       - DRY
+         - "dont repeat yourself"
 - Read the [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 1: Clean Code
   - Chapter 2: Meaningful Names
@@ -46,13 +54,7 @@ Enjoy!
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
 - Read [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
-- Read [DRY,KISS,YAGNI](https://www.dilgoon.ir/blog/%D8%B3%D9%87-%D8%A7%D8%B5%D9%84-KISS-,-YAGNI-,-DRY-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F)
-  - [YAGNI](https://martinfowler.com/bliki/Yagni.html)
-    - "You Aren’t Gonna Need It"
-  - KISS
-    - "Keep It Simple, Stupid"
-  - DRY
-    - "dont repeat yourself"
+
 ## Session 2: Test-Driven Development
 
 - Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
