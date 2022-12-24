@@ -45,7 +45,11 @@ Enjoy!
   - Chapter 6: While You Are Coding
 - Read [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
 - Read [YAGNI](https://martinfowler.com/bliki/Yagni.html)
-
+ -"You Aren’t Gonna Need It"
+- Read [KISS] 
+ -"Keep It Simple, Stupid"
+- Read  [DRY]
+ -"dont repeat yourself"
 ## Session 2: Test-Driven Development
 
 - Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
