@@ -17,7 +17,6 @@ Enjoy!
 ## Getting Started
 
 - Get familiar with Work Rhythms
-  - [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/cirillo-pomodoro-technique.pdf)) 
   - [Pomodoro Technique](http://pomodorotechnique.com/) : 25 minutes of work, 5-minute break.(read the [paper](assets/cirillo-pomodoro-technique.pdf)) 
   - Desktime: 52 minutes of work, 17 minutes break.
   - Ultradian rhythms: 90 minutes of work, extended break.
