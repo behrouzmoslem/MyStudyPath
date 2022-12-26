@@ -20,7 +20,7 @@ Enjoy!
   - [Pomodoro Technique](http://pomodorotechnique.com/) : 25 minutes of work, 5-minute break.(read the [paper](assets/cirillo-pomodoro-technique.pdf)) 
   - [Desktime](https://ivsi.ir/time-you-should-work-in-day/): 52 minutes of work, 17 minutes break.
   - [Ultradian rhythms](https://virgool.io/@a.habibi/ultradian-rhythm-uzl60ppzec1s): 90 minutes of work, extended break.
-- Read the [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- Read the [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/pr/manifesto.html)
 - Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
