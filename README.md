@@ -18,7 +18,7 @@ Enjoy!
 
 - Get familiar with Work Rhythms
   - [Pomodoro Technique](http://pomodorotechnique.com/) : 25 minutes of work, 5-minute break.(read the [paper](assets/cirillo-pomodoro-technique.pdf)) 
-  - Desktime: 52 minutes of work, 17 minutes break.
+  - [Desktime](https://notif.ir/52-minute-work-17-minute-break-is-the-ideal-productivity-schedule-916.html): 52 minutes of work, 17 minutes break.
   - [Ultradian rhythms](https://virgool.io/@a.habibi/ultradian-rhythm-uzl60ppzec1s): 90 minutes of work, extended break.
 - Read the [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
