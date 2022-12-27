@@ -47,12 +47,14 @@ Enjoy!
        - DRY
          - "dont repeat yourself"
 - Read the [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 1: Clean Code
-  - Chapter 2: Meaningful Names
-  - Chapter 3: Functions
-  - Chapter 6: Objects and Data Structures
-  - Chapter 7: Error Handling
-  - Chapter 10: Classes
+  - Watch(https://git.ir/clean-code-the-clean-coder/)
+  - Read 
+    - Chapter 1: Clean Code
+    - Chapter 2: Meaningful Names
+    - Chapter 3: Functions
+    - Chapter 6: Objects and Data Structures
+    - Chapter 7: Error Handling
+    - Chapter 10: Classes
 - Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
   - Chapter 2: A Pragmatic Approach
   - Chapter 5: Bend or Break
