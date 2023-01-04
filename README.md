@@ -50,11 +50,11 @@ Enjoy!
   - Watch(https://git.ir/clean-code-the-clean-coder/)
   - Read 
     - Chapter 1: Clean Code
-    - Chapter 2: Meaningful Names
-    - Chapter 3: Functions
+    - Chapter 2: [Meaningful Names](https://mrbug.ir/booksummary/541/)
+    - Chapter 3: [Functions](https://mrbug.ir/booksummary/588/)
     - Chapter 6: Objects and Data Structures
     - Chapter 7: [Error Handling](https://mrbug.ir/booksummary/702/)
-    - Chapter 10: Classes
+    - Chapter 10: [Classes](https://mrbug.ir/booksummary/718/)
 - Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
   - Chapter 2: A Pragmatic Approach
   - Chapter 5: Bend or Break
