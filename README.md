@@ -50,9 +50,13 @@ Enjoy!
   - Watch(https://git.ir/clean-code-the-clean-coder/)
   - Read 
     - Chapter 1: Clean Code
-    - Chapter 2: [Meaningful Names](https://mrbug.ir/booksummary/541/)
+       - [Read] (https://virgool.io/@dndshmdr/%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D9%81%D8%B5%D9%84-%D8%A7%D9%88%D9%84-clean-code-%DA%A9%D8%AF-%D8%AA%D9%85%DB%8C%D8%B2-ax3amclpsdzi)
+      
+    - Chapter 2: Meaningful Names
+      - [Read](https://mrbug.ir/booksummary/541/)
+      - [Read](https://virgool.io/@dndshmdr/%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D9%81%D8%B5%D9%84-%D8%AF%D9%88%D9%85-clean-code-%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D8%A8%D8%A7-%D9%85%D8%B9%D9%86%DB%8C-aelqqffftac7)
     - Chapter 3: [Functions](https://mrbug.ir/booksummary/588/)
-    - Chapter 6: Objects and Data Structures
+    - Chapter 6: [Objects and Data Structures](https://virgool.io/@mrbug_ir/cleancode-part6-viiklk9jkxvk)
     - Chapter 7: [Error Handling](https://mrbug.ir/booksummary/702/)
     - Chapter 10: [Classes](https://mrbug.ir/booksummary/718/)
 - Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
