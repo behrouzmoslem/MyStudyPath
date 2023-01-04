@@ -53,7 +53,7 @@ Enjoy!
     - Chapter 2: Meaningful Names
     - Chapter 3: Functions
     - Chapter 6: Objects and Data Structures
-    - Chapter 7: Error Handling
+    - Chapter 7: [Error Handling](https://mrbug.ir/booksummary/702/)
     - Chapter 10: Classes
 - Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
   - Chapter 2: A Pragmatic Approach
