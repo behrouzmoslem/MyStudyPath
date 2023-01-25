@@ -60,7 +60,7 @@ Enjoy!
     - Chapter 7: [Error Handling](https://mrbug.ir/booksummary/702/)
     - Chapter 10: [Classes](https://mrbug.ir/booksummary/718/)
 - Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-  - Chapter 2: A Pragmatic Approach
+  - Chapter 2: [A Pragmatic Approach](https://sokanacademy.com/blog/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-The-Pragmatic-Programmer)
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
 - Read [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
