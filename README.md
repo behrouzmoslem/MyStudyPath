@@ -57,8 +57,8 @@
 ## Session 2: Test-Driven Development
 
 - Read [TDD by example]
-  - Master Source (http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
-  - Personal Source (https://drive.google.com/file/d/17fJlD8Oh4b3howwqEkdCVLUEruVf5KLr/view?usp=share_link)
+  - [Master Source] (http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+  - [Personal Source] (https://drive.google.com/file/d/17fJlD8Oh4b3howwqEkdCVLUEruVf5KLr/view?usp=share_link)
     - Study the `Part I: The Money Example`
     - Exercise: Try to repeat it with a programming language at your choice.
 - Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
