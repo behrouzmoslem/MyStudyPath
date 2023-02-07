@@ -36,7 +36,7 @@
        - DRY
          - "dont repeat yourself"
 - Read the [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Watch(https://git.ir/clean-code-the-clean-coder/)
+  - [Watch](https://git.ir/clean-code-the-clean-coder/)
   - Read 
     - Chapter 1: Clean Code
        - [Read](https://virgool.io/@dndshmdr/%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D9%81%D8%B5%D9%84-%D8%A7%D9%88%D9%84-clean-code-%DA%A9%D8%AF-%D8%AA%D9%85%DB%8C%D8%B2-ax3amclpsdzi)
@@ -57,8 +57,8 @@
 ## Session 2: Test-Driven Development
 
 - Read [TDD by example]
-  - [Master Source] (http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
-  - [Personal Source] (https://drive.google.com/file/d/17fJlD8Oh4b3howwqEkdCVLUEruVf5KLr/view?usp=share_link)
+  - [Master Source](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+  - [Personal Source](https://drive.google.com/file/d/17fJlD8Oh4b3howwqEkdCVLUEruVf5KLr/view?usp=share_link)
     - Study the `Part I: The Money Example`
     - Exercise: Try to repeat it with a programming language at your choice.
 - Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
